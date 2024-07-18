@@ -1,0 +1,31 @@
+
+#version: '0.1'
+#services:
+#  app:
+#    image: 'originalapp:0.1'
+##    build:
+##      context: .
+#    container_name: app
+#    ports:
+#      - '8081:8080'
+#    depends_on:
+#      - db
+#    environment:
+#      - SPRING_DATASOURCE_URL=jdbc:postgresql://db:5432/postgres
+#      - SPRING_DATASOURCE_USERNAME=postgres
+#      - SPRING_DATASOURCE_PASSWORD=12345
+#      - SPRING_JPA_HIBERNATE_DDL_AUTO=update
+#  db:
+#    image: 'postgres:latest'
+#    container_name: db
+#    ports:
+#      - "5432:5432"
+#    environment:
+#      - POSTGRES_USER=postgres
+#      - POSTGRES_PASSWORD=12345
+#      - POSTGRES_DATABASE=postgres
+#    volumes:
+#      - db_data:/var/lib/postgres
+#
+#volumes:
+#  db_data: {}
