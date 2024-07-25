@@ -6,9 +6,10 @@
     <file type="web" url="file://$PROJECT_DIR$/Customer" />
     <file type="web" url="file://$PROJECT_DIR$/EurekaServer" />
     <file type="web" url="file://$PROJECT_DIR$/Gateway" />
+    <file type="web" url="file://$PROJECT_DIR$/Notification" />
     <file type="web" url="file://$PROJECT_DIR$/Transaction" />
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

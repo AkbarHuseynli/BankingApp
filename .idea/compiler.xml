@@ -5,10 +5,27 @@
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
-          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cc.jilt/jilt/1.6.1/73496d3b93534c5010e5068324acef45123b3ba6/jilt-1.6.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapstruct/mapstruct-processor/1.5.5.Final/897f6f115930b936287bef552bf5fe28cc64717d/mapstruct-processor-1.5.5.Final.jar" />
         </processorPath>
-        <module name="org.example.Customer.main" />
+        <module name="BankingApp.Transaction.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="org.example.Account" target="17" />
+      <module name="org.example.Account.main" target="17" />
+      <module name="org.example.Account.test" target="17" />
+      <module name="org.example.Customer" target="17" />
+      <module name="org.example.Customer.main" target="17" />
+      <module name="org.example.Customer.test" target="17" />
+      <module name="org.example.EurekaServer" target="17" />
+      <module name="org.example.EurekaServer.main" target="17" />
+      <module name="org.example.EurekaServer.test" target="17" />
+      <module name="org.example.Gateway" target="17" />
+      <module name="org.example.Gateway.main" target="17" />
+      <module name="org.example.Gateway.test" target="17" />
+      <module name="org.example.Transaction" target="17" />
+      <module name="org.example.Transaction.main" target="17" />
+      <module name="org.example.Transaction.test" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
