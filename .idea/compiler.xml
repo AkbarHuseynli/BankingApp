@@ -7,7 +7,7 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cc.jilt/jilt/1.6.1/73496d3b93534c5010e5068324acef45123b3ba6/jilt-1.6.1.jar" />
         </processorPath>
-        <module name="Customer.main" />
+        <module name="org.example.Customer.main" />
       </profile>
     </annotationProcessing>
   </component>

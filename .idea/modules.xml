@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Account.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Account.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Account.iml" filepath="$PROJECT_DIR$/.idea/modules/Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Account.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Account.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/BankingApp.iml" filepath="$PROJECT_DIR$/.idea/BankingApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Customer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Customer.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Transaction.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Transaction.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Customer.iml" filepath="$PROJECT_DIR$/.idea/modules/Customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Customer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Customer.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EurekaServer.iml" filepath="$PROJECT_DIR$/.idea/modules/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EurekaServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EurekaServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EurekaServer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/EurekaServer.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Gateway.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Transaction.iml" filepath="$PROJECT_DIR$/.idea/modules/Transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Transaction.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Transaction.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.example.Account.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.example.Account.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.example.Customer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.example.Customer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.example.Transaction.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.example.Transaction.main.iml" />
     </modules>
   </component>
 </project>
