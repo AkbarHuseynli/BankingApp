@@ -20,12 +20,12 @@ The application has 3 apis
 - Java 17
 - Spring Boot
 - Spring Data JPA
-- Restful API
+- Restful APIs
 - Spring Cloud Gateway
 - Spring Eureka Server
 - Spring Cloud OpenFeign
-- OpenAPI documentation
-- H2 In memory database  
+- H2 In memory database
+- Kafka
 - Docker
 - Docker compose
 - Zipkin
